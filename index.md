@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# Lesotho Young Academy of Science
 
-You can use the [editor on GitHub](https://github.com/Lesotho-Young-Academy-of-Science/lesothoyas.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Lesotho Young Academy of Science (also called `LYAS' or `The Young Academy')
+is an independent, non-governmental organization envisaged to be the voice of
+young scientists in Lesotho. It is intended to work hand in hand with Lesotho
+Academy of Science and Technology (LAST) and all the stakeholders towards
+advancing science and engineering in the Kingdom of Lesotho. Furthermore,
+LYAS is non-political, non-profit making and not a trade union.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Mission
+The mission of the Young Academy is to be the voice of young scientists in
+Lesotho.
 
-### Markdown
+## Objectives 
+The objectives of Lesotho Young Academy of Science are:
+• to give a voice to young scientists;
+• to promote science as a career of choice for young people;
+• to build and nurture science capacity among the young scientists;
+• to foster interdisciplinary research in order to address national and inter-
+national challenges;
+• to communicate science to the society and assist in the formulation of
+science policies, especially those that affect the youth;
+• to pursue any other goals that concern young scientists, which the General
+Assembly of the Young Academy decides to promote.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Lesotho-Young-Academy-of-Science/lesothoyas.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
