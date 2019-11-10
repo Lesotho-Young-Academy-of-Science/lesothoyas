@@ -13,14 +13,14 @@ Lesotho.
 
 ## Objectives 
 The objectives of Lesotho Young Academy of Science are:
-• to give a voice to young scientists;
-• to promote science as a career of choice for young people;
-• to build and nurture science capacity among the young scientists;
-• to foster interdisciplinary research in order to address national and inter-
+- to give a voice to young scientists;
+- to promote science as a career of choice for young people;
+- to build and nurture science capacity among the young scientists;
+- to foster interdisciplinary research in order to address national and inter-
 national challenges;
-• to communicate science to the society and assist in the formulation of
+- to communicate science to the society and assist in the formulation of
 science policies, especially those that affect the youth;
-• to pursue any other goals that concern young scientists, which the General
+- to pursue any other goals that concern young scientists, which the General
 Assembly of the Young Academy decides to promote.
 
 
